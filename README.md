@@ -1,6 +1,6 @@
 # Hi there, I'm Francie 👋
 
-![Header]([https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile](https://www.canva.com/design/DAGIHVm-e8o/4Ghg0gIibqJDbYFzVhyWzw/view?utm_content=DAGIHVm-e8o&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+![Header](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile](https://www.canva.com/design/DAGIHVm-e8o/4Ghg0gIibqJDbYFzVhyWzw/view?utm_content=DAGIHVm-e8o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## About Me
 I'm a **Computer Science student** with a passion for **graphic design** and **artificial intelligence**. I enjoy creating and developing solutions that blend both my technical and creative skills. When I'm not coding or designing, I love exploring new AI technologies and working on personal projects to improve my skills.
