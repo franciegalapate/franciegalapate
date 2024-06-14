@@ -1,6 +1,6 @@
 # Hi there, I'm Francie 👋
 
-![Header]([https://drive.google.com/file/d/1OGPiCqwbOjvGsL2qN5wBPTosj5PHTmup/view?usp=sharing])
+![Header]([https://drive.google.com/uc?export=view&id=1OGPiCqwbOjvGsL2qN5wBPTosj5PHTmup])
 
 ## About Me
 I'm a **Computer Science student** with a passion for **graphic design** and **artificial intelligence**. I enjoy creating and developing solutions that blend both my technical and creative skills. When I'm not coding or designing, I love exploring new AI technologies and working on personal projects to improve my skills.
